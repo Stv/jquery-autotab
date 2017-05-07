@@ -1,0 +1,21 @@
+{
+    "name": "mathachew/jquery-autotabs",
+    "type": "library",
+    "description": "A JQuery plugin for autotabbing between fields",
+    "license": "MIT",
+    "keywords": ["jquery","autotab"],
+    "homepage": "https://github.com/Mathachew/jquery-autotab",
+    "authors": [
+        {
+            "name": "Matthew Miller",
+            "homepage": "https://github.com/Mathachew/"
+        },
+        {
+            "name": "All contributors",
+            "homepage": "https://github.com/Mathachew/jquery-autotab/graphs/contributors"
+        }
+    ],
+    "require": {
+        "jquery": "^1.7",
+    },
+}
